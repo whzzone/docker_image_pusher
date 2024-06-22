@@ -8,3 +8,5 @@ xhofe/alist:latest
 xhofe/alist:v3.28.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+cnk3x/xunlei:3.7.1
+--platform=linux/arm64 cnk3x/xunlei:3.7.1
