@@ -13,3 +13,6 @@ cnk3x/xunlei:3.7.1
 
 openjdk:8
 --platform=linux/arm64 openjdk:8
+
+redis:6.2.6
+--platform=linux/arm64 redis:6.2.6
