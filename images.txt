@@ -10,3 +10,5 @@ xhofe/alist:v3.28.0
 #--platform=linux/arm64 xiaoyaliu/alist
 cnk3x/xunlei:3.7.1
 --platform=linux/arm64 cnk3x/xunlei:3.7.1
+
+openjdk:8
