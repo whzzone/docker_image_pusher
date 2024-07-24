@@ -18,3 +18,4 @@ redis:6.2.6
 --platform=linux/arm64 redis:6.2.6
 alpine:3.20
 xugudb/xugudb:v12
+mysql:5.7.40
