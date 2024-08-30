@@ -22,3 +22,6 @@ mysql:5.7.40
 emqx/emqx:5.7.2
 rabbitmq:3.9-management
 --platform=linux/arm64 rabbitmq:3.9-management
+rabbitmq:3-management
+--platform=linux/arm64 rabbitmq:3-management
+
