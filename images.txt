@@ -28,3 +28,6 @@ rabbitmq:3-management
 ghcr.io/cross-rs/x86_64-unknown-linux-musl:0.2.5
 enmotech/opengauss:5.0.3
 --platform=linux/arm64 enmotech/opengauss:5.0.3
+
+openjdk:8u271
+--platform=linux/arm64 openjdk:8u271
