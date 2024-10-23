@@ -30,3 +30,6 @@ enmotech/opengauss:5.0.3
 --platform=linux/arm64 enmotech/opengauss:5.0.3
 
 --platform=linux/arm64/v8 openjdk:8u292-jdk
+
+whzzone/cloudbeaver:24.0.5
+--platform=linux/arm64 whzzone/cloudbeaver:24.0.5
