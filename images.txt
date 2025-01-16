@@ -34,3 +34,5 @@ enmotech/opengauss:5.0.3
 
 whzzone/cloudbeaver:24.0.5
 --platform=linux/arm64 whzzone/cloudbeaver:24.0.5
+
+openjdk:8u201-jdk-alpine3.9
